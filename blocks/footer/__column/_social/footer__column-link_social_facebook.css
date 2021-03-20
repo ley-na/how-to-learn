@@ -1,0 +1,8 @@
+.footer__column-link_social_facebook::before {
+  content: url('../../../../images/facebook_color_white.svg');
+  position: relative;
+  top: 2px;
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+}
