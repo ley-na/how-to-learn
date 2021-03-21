@@ -1,7 +1,16 @@
 .footer__column-link {
   position: relative;
-  color: white;
+  color: #fff;
   line-height: 30px;
   font-size: 18px;
   font-weight: 400;
+  text-decoration: none;
+  opacity: 1;
+  transition: opacity 0.7s ease;
 }
+
+.footer__column-link:hover {
+  opacity: 0.5;
+}
+
+
