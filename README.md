@@ -1,5 +1,8 @@
-# Техники обучения
+# Learning how to learn
 
-Сайт рассказывает про эффективные техники обучения. Проект является первый учебным проектом в Яндекс.Практикуме.
+##**includes:**
 
-**Стек:** HTML5, CSS3, BEM, анимации.
+- CSS animations
+- embedded content
+- BEM Methodology with a structured file path organization.
+
